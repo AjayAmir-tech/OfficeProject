@@ -17,7 +17,7 @@ import com.off.exceptions.NameException;
 
 
 @RestController
-@RequestMapping(value="/Onesofts")
+@RequestMapping(value="/os")
 public class EmployeeController {
 	
 	@Autowired
